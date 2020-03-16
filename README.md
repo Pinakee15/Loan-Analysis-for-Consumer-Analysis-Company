@@ -11,5 +11,5 @@ loan results in a loss of business to the company
 default, then approving the loan may lead to a financial loss for the
 company
 
-In this case study, you will use EDA to understand how consumer
+In this case study, I will use EDA to understand how consumer
 attributes and loan attributes influence the tendency of default.
